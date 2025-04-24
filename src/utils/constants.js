@@ -1,2 +1,2 @@
-export const BASE_URL = "http://localhost:8000/api/v1/"
-export const SERVER_URL = "http://localhost:8000/"
+export const BASE_URL = "https://omjadhav.pythonanywhere.com/api/v1/"
+export const SERVER_URL = "https://omjadhav.pythonanywhere.com/"
